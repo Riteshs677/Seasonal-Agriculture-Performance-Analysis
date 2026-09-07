@@ -230,7 +230,6 @@ Seasonal-Agriculture-Performance-Analysis/
 │
 ├── 📓 Seasonal_Agriculture_Performance_Analysis.ipynb
 ├── 📊 seasonal_agriculture_performance_dataset.csv
-├── 📽️ Seasonal_Agriculture_Performance_Analysis_Presentation.pptx
 ├── 📄 README.md
 │
 └── 📁 visuals/
