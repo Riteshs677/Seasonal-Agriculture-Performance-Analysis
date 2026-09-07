@@ -236,6 +236,7 @@ Seasonal-Agriculture-Performance-Analysis/
     ├── season_yield.png
     ├── season_profit.png
     ├── crop_profit.png
+    ├── Average_crop_profit_across_seasons.png
     ├── water_yield.png
     └── zaid_profit.png
 ```
